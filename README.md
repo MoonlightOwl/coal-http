@@ -1,2 +1,2 @@
 # Coal HTTP server
-WIP
+RIP
